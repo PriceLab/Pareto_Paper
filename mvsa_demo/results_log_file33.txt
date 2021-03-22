@@ -1,0 +1,6 @@
+Starting to perform PCA, for big data on slow computers this may take a while...
+Calculating explained variance with PCHA (Morup M, Hansen KL, 2011)
+Now computing t-ratios.
+The significance of 4 archetypes has p-value of: 0.00000 
+Now calculating errors on the archetypes.
+Warning: could not align archetypes. Archetype order is random and will change if you rerun ParTI again.finished finding the archetypes error distribution
